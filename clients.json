@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Visual Studio Code",
+    "version": "1.120.0",
+    "protocolVersion": "2025-11-25",
+    "connected_at": "2026-07-21T23:27:05.749Z",
+    "last_seen": "2026-07-21T23:27:05.749Z",
+    "status": "active",
+    "working_dir": "/home/sahon/dev/sahon",
+    "detected_dir": "",
+    "session_id": "1",
+    "tools_used": 0,
+    "anonymous": false
+  }
+]
